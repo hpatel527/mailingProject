@@ -1,0 +1,10 @@
+D:\Documents\cscd 371\HolidayMailer\HolidayMailer\HolidayMailer\bin\Debug\HolidayMailer.exe.config
+D:\Documents\cscd 371\HolidayMailer\HolidayMailer\HolidayMailer\bin\Debug\HolidayMailer.exe
+D:\Documents\cscd 371\HolidayMailer\HolidayMailer\HolidayMailer\bin\Debug\HolidayMailer.pdb
+D:\Documents\cscd 371\HolidayMailer\HolidayMailer\HolidayMailer\bin\Debug\System.Data.SQLite.dll
+D:\Documents\cscd 371\HolidayMailer\HolidayMailer\HolidayMailer\obj\Debug\HolidayMailer.csprojResolveAssemblyReference.cache
+D:\Documents\cscd 371\HolidayMailer\HolidayMailer\HolidayMailer\obj\Debug\HolidayMailer.Form1.resources
+D:\Documents\cscd 371\HolidayMailer\HolidayMailer\HolidayMailer\obj\Debug\HolidayMailer.Properties.Resources.resources
+D:\Documents\cscd 371\HolidayMailer\HolidayMailer\HolidayMailer\obj\Debug\HolidayMailer.csproj.GenerateResource.Cache
+D:\Documents\cscd 371\HolidayMailer\HolidayMailer\HolidayMailer\obj\Debug\HolidayMailer.exe
+D:\Documents\cscd 371\HolidayMailer\HolidayMailer\HolidayMailer\obj\Debug\HolidayMailer.pdb
